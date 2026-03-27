@@ -524,10 +524,10 @@ test:     adição de testes
 chore:    tarefas de manutenção
 ________________________________________
 👥 Equipe
-Nome	RA	Função
-[wallace coimbra]	[42289238]	Fullstack Developer
-[matheus]	[RA]	Frontend Developer
-[Nome 3]	[RA]	Backend Developer
+Nome	RGM	Função
+[Wallace Coimbra]	[42289238]	Fullstack Developer
+[Mateus Sepulvida ]	[44709170]	Fullstack Developer
+[Javier Penalver ]	[45879885]	FRONT END Developer
 ________________________________________
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
