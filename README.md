@@ -525,8 +525,8 @@ chore:    tarefas de manutenção
 ________________________________________
 👥 Equipe
 Nome	RA	Função
-[Seu Nome]	[RA]	Fullstack Developer
-[Nome 2]	[RA]	Frontend Developer
+[wallace coimbra]	[42289238]	Fullstack Developer
+[matheus]	[RA]	Frontend Developer
 [Nome 3]	[RA]	Backend Developer
 ________________________________________
 📄 Licença
