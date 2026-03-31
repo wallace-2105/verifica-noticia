@@ -78,7 +78,5 @@ userSchema.methods.comparePassword = async function(candidatePassword) {
 
 };
  
-// ⚠️ ESSA LINHA É OBRIGATÓRIA
-
 module.exports = mongoose.model('User', userSchema);
  

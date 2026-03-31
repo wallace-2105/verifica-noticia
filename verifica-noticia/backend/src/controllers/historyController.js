@@ -1,4 +1,4 @@
-const Check = require('../models/Check'); 
+const Check = require('../models/Check'); // ← ESSA LINHA ESTAVA FALTANDO
  
 const getHistory = async (req, res) => {
 
@@ -80,5 +80,5 @@ const deleteCheck = async (req, res) => {
 
 };
  
-module.exports = { getHistory, deleteCheck }; 
+module.exports = { getHistory, deleteCheck }; // ← ESSA LINHA É OBRIGATÓRIA
  
