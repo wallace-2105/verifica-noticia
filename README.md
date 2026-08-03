@@ -1,10 +1,11 @@
 markdown
 <div align="center">
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3ba486a-3903-4957-a786-b1ac2cc0e86d" />
+
 
 
 # Verifica Notícia
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3ba486a-3903-4957-a786-b1ac2cc0e86d" />
 
 
 ### Plataforma inteligente de verificação de fake news com IA
