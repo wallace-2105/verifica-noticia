@@ -19,29 +19,15 @@ markdown
 [⚙️ Instalação](#️-instalação) •
 [📡 API](#-documentação-da-api) •
 [🤝 Contribuição](#-contribuição)
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3ba486a-3903-4957-a786-b1ac2cc0e86d" />
 
 
-### Plataforma inteligente de verificação de fake news com IA
-
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-[🚀 Demo](#-demo) •
-[📋 Funcionalidades](#-funcionalidades) •
-[⚙️ Instalação](#️-instalação) •
-[📡 API](#-documentação-da-api) •
-[🤝 Contribuição](#-contribuição)
 
 </div>
 
 ---
 
 ## 📌 Sobre o Projeto
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3ba486a-3903-4957-a786-b1ac2cc0e86d" />
 
 O **Verifica Notícia** é uma plataforma web desenvolvida como projeto de conclusão de curso (PCC)
 que utiliza **Inteligência Artificial (GPT-4o)** para verificar a veracidade de notícias e informações
