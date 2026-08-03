@@ -5,6 +5,7 @@ markdown
 
 
 # Verifica Notícia
+glock
 
 ### Plataforma inteligente de verificação de fake news com IA
 
